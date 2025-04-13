@@ -57,7 +57,7 @@ Ce projet est une application web interactive développée avec **Streamlit**. E
 
 3. Lancez l'application :
      ```bash
-     streamlit run app.py
+     streamlit run main.py
      ```
 
 ---
